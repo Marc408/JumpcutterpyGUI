@@ -1,7 +1,7 @@
 audiotsm==0.1.2
 ffmpeg-python==0.2.0
 numpy==1.17.0
-Pillow==6.2.0
+Pillow==9.0.0
 pylint==2.3.1
 PyQt5==5.11.3
 pytube==9.5.1
